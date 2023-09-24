@@ -5,7 +5,7 @@
 
 [TechBoosterのRe:VIEW用の書籍テンプレート](https://github.com/TechBooster/ReVIEW-Template)を利用しています。
 
-Re:VIEW Version 5.7を使用しています。本のサイズはA5です。
+Re:VIEW Version 5.8を使用しています。本のサイズはA5です。
 
 ## 過去の技術書典で頒布した本はBOOTHやKindleで購入できます
 

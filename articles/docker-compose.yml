@@ -1,0 +1,8 @@
+version: '3'
+services:
+  review:
+    image: vvakame/review:5.8
+    volumes:
+      - .:/make-the-book-known
+    build: .
+    working_dir: /make-the-book-known
