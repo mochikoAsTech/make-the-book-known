@@ -4,6 +4,7 @@ PREDEF:
   - introduction.re
 
 CHAPS:
+  - article_01.re
 
 POSTDEF:
 # あとがき
