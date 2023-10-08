@@ -4,7 +4,10 @@ PREDEF:
   - introduction.re
 
 CHAPS:
-  - article_01.re
+  - event-registration.re
+  - before.re
+  - during.re
+  - after.re
 
 POSTDEF:
 # あとがき
