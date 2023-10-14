@@ -5,8 +5,9 @@ PREDEF:
 
 CHAPS:
   - event-registration.re
+  - process-of-writing.re
   - common-for-advertising.re
-  - before.re
+  - before-event.re
   - during.re
   - after.re
 
