@@ -52,7 +52,7 @@ PDFを読み込ませると、Kindleで販売可能な固定レイアウトのmo
 Kindleで本を販売しはじめたら、Amazonの著者セントラル@<fn>{author}で著者のプロフィール@<fn>{profile}も設定しておきましょう。
 
 //footnote[author][著者ページを編集できる管理画面。 @<href>{https://author.amazon.co.jp/}]
-//footnote[profile][@<href>{https://www.amazon.co.jp/~/e/B087NBL9VM}]
+//footnote[profile][@<href>{https://www.amazon.co.jp/mochikoAsTech/e/B087NBL9VM}]
 
 //image[author-page][Amazonの著者ページ][scale=0.8]{
 //}

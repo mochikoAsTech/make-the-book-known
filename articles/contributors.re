@@ -9,7 +9,7 @@
  * @<href>{https://twitter.com/mochikoAsTech}
  * @<href>{https://bsky.app/profile/mochikoastech.bsky.social}
  * @<href>{https://mochikoastech.booth.pm/}
- * @<href>{https://note.mu/mochikoastech}
+ * @<href>{https://note.com/mochikoastech}
  * @<href>{https://mochikoastech.hatenablog.com/}
  * @<href>{https://www.amazon.co.jp/mochikoAsTech/e/B087NBL9VM}
 
