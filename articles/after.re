@@ -45,8 +45,9 @@ AmazonにはKDP@<fn>{kdp}といって、著者が自分でKindleストアに電�
 
 //footnote[kc2][通称KC2。 @<href>{https://kdp.amazon.co.jp/ja_JP/help/topic/G201217140}]
 
-PDFを読み込ませると、Kindleで販売可能な固定レイアウトのmobiファイルを生成できます。もし執筆に使用しているのがRe:VIEWであれば、リフロー型@<fn>{epub}のEPUBファイルを出力できるので、そちらの方がお勧めです。
+PDFを読み込ませると、Kindleで販売可能な固定レイアウトのmobiファイルを生成できます。もし執筆に使用しているのがRe:VIEW@<fn>{review}であれば、リフロー型@<fn>{epub}のEPUBファイルを出力できるので、そちらの方がお勧めです。
 
+//footnote[review][@<href>{https://reviewml.org/}]
 //footnote[epub][リフロー型だと、読む側の環境に応じて文字サイズを自由に拡大縮小でき、サイズに応じてページが組み直されるので読みやすい。]
 
 Kindleで本を販売しはじめたら、Amazonの著者セントラル@<fn>{author}で著者のプロフィール@<fn>{profile}も設定しておきましょう。
