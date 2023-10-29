@@ -12,7 +12,7 @@
 
 なお「技術書典」だけでなく、先頭に半角ハッシュタグ、末尾に半角スペースを入れた「@<ttb>{#技術書典 }」も単語登録しておくと便利です。なお「@<ttb>{#技術書典15}」のようなナンバリング付きのハッシュタグではなく、公式が推奨@<fn>{recommended}している「@<ttb>{#技術書典}」を使いましょう。
 
-//footnote[recommended][@<href>{https://twitter.com/techbookfest/status/1658255789482708992}]
+//footnote[recommended][@<href>{https://twitter.com/techbookfest/status/1718482434885656961}]
 
 == 自分の本を卑下しない
 
