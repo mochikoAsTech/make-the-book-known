@@ -27,7 +27,7 @@ mochikoAsTech
  * ダウンロードURL
  ** @<href>{https://mochikoastech.booth.pm/items/5194098}
  * パスワード
- ** @<ttb>{******}
+ ** @<ttb>{WriteFirstThinkLater}
 
 == Special Thanks:
 

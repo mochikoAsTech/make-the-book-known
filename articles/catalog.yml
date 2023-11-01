@@ -4,6 +4,7 @@ PREDEF:
   - introduction.re
 
 CHAPS:
+#  - kihou15-mochikoAsTech.re
   - event-registration.re
   - process-of-writing.re
   - common-for-advertising.re
